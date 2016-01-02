@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on Tedi&#39;s Place</title>
+    <link>http://tedi-ruseva.github.io/tags/tag2/</link>
+    <description>Recent content in Tag2 on Tedi&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Thu, 31 Dec 2015 16:59:11 +0200</lastBuildDate>
+    <atom:link href="http://tedi-ruseva.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://tedi-ruseva.github.io/post/first-post/</link>
+      <pubDate>Thu, 31 Dec 2015 16:59:11 +0200</pubDate>
+      
+      <guid>http://tedi-ruseva.github.io/post/first-post/</guid>
+      <description>&lt;p&gt;This is my first post. Special thanks to my &lt;a href=&#34;https://github.com/jrusev&#34;&gt;brother&lt;/a&gt;
+who helped me setup the site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
